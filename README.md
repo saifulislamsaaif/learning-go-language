@@ -1,2 +1,2 @@
-# learning-go-language
+# Learning GO Language
 Learning GO Language
